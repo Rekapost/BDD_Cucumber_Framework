@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.501" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-02-20T19:17:28.072083900Z">
+<testcase classname="Log in to the website" name="Login with credentails" time="5.482">
+<system-out><![CDATA[
+Given I am in login page....................................................passed
+Given Open "<website>"......................................................passed
+And Enter "<username>" and "<passowrd>".....................................passed
+When Click login............................................................passed
+And User is logged in to the website........................................passed
+Then I validate the credentails.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Log in to the website" name="Login with different sets of data - #1.2" time="5.418">
+<system-out><![CDATA[
+Given I am in login page....................................................passed
+Given Open "<website>"......................................................passed
+And Enter "rekaharisri@gmail.com" and "admin@123"...........................passed
+When Click login............................................................passed
+And User is logged in to the website........................................passed
+Then I validate the credentails.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Log in to the website" name="Login with different sets of data - #1.1" time="5.409">
+<system-out><![CDATA[
+Given I am in login page....................................................passed
+Given Open "<website>"......................................................passed
+And Enter "reka@gmail.com" and "admin@1"....................................passed
+When Click login............................................................passed
+And User is logged in to the website........................................passed
+Then I validate the credentails.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
