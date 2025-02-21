@@ -118,8 +118,6 @@ String gridUrl = System.getProperty("selenium.grid.url", "http://localhost:5555/
 driver.set(new RemoteWebDriver(new URL(gridUrl), chromeOptions));
 ```
 
-
-
 ## 5. Generating Allure Report
 Navigate to the folder containing `allure-results` and run:
 ```sh
