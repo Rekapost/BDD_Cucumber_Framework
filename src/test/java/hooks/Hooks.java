@@ -2,6 +2,8 @@ package hooks;
 import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import org.apache.commons.io.FileUtils;
@@ -21,6 +23,9 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.logging.LogType;
 import org.openqa.selenium.logging.LoggingPreferences;
 import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
@@ -55,7 +60,7 @@ public class Hooks {
 		// Initialize the logger
 		logger = Logger.getLogger("nopCommerce"); // create object for Logger class
 		PropertyConfigurator.configure("src/test/resources/log4j.properties");
-		// ChainTest Cinfiguartion
+		// ChainTest Configuration
 		//ChainPluginService.getInstance().addSystemInfo("Build#", "1.0");
 		//ChainPluginService.getInstance().addSystemInfo("Owner Name#", "Reka");
 		System.out.println("Running scenario: " + scenario.getName());
@@ -64,7 +69,7 @@ public class Hooks {
 			// Check if running inside Docker (or any Linux-based environment)
 			if (System.getProperty("os.name").toLowerCase().contains("linux")) {
 				System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
-				chromeOptions.addArguments("--disable-gpu", "--no-sandbox", "--disable-dev-shm-usage",
+				chromeOptions.addArguments("--headless", "--disable-gpu", "--no-sandbox", "--disable-dev-shm-usage",
 						"--remote-allow-origins=*");
 			} else {
 				// Only set WebDriverManager if you want it to automatically manage ChromeDriver
@@ -96,10 +101,36 @@ public class Hooks {
 				chromeOptions.setCapability(CapabilityType.LOGGING_PREFS, logs);
 
 			}
-			driver.set(new ChromeDriver(chromeOptions));
-			// driver.set(new RemoteWebDriver(new
-			// URL("http://localhost:5555/wd/hub"),chromeOptions));
+			
+//			driver.set(new ChromeDriver(chromeOptions));
+			
+/*			
+			//To check logs for RemoteWebDriver http://localhost:5555/
+	        URL seleniumHubUrl = new URL("http://localhost:5555/wd/hub");
+			//WebDriver driver = new RemoteWebDriver(seleniumHubUrl, chromeOptions);
+			driver.set(new RemoteWebDriver(seleniumHubUrl,chromeOptions));
+*/
+/*			
+			// Read the selenium.grid.url property from the command line (set by Maven)
+	        String gridUrl = System.getProperty("selenium.grid.url", "http://localhost:5555/wd/hub");
+	        // Initialize RemoteWebDriver with the grid URL and Chrome options
+	        driver.set(new RemoteWebDriver(new URL(gridUrl), chromeOptions));
+*/	        
+			DesiredCapabilities capabilities = new DesiredCapabilities();
+			capabilities.setCapability("browserName", "Chrome");
+			capabilities.setCapability("browserVersion", "latest");
+			capabilities.setCapability("platformName", "Windows 10");
+			capabilities.setCapability("LT:Options", new HashMap<String, Object>() {{
+			    put("user", "rekaharisri");
+			    put("accessKey", "0UV2Eyfkmupm6epnxh6RK6UDtMOebAibFwtZO1WxuPqeySA0zW");
+			    put("build", "Bdd-Framework");
+			    put("name", "Login");
+			}});
+			//WebDriver driver = new RemoteWebDriver(new URL("https://hub.lambdatest.com/wd/hub"), capabilities);
+			driver.set(new RemoteWebDriver(new URL("https://hub.lambdatest.com/wd/hub"), capabilities));
+			
 			getDriver().manage().deleteAllCookies();
+			
 		} else if (BROWSER.equalsIgnoreCase("firefox")) {
 			Loggerload.info("Testing on firefox");
 			FirefoxOptions Options = new FirefoxOptions();

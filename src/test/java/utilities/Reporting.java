@@ -17,58 +17,26 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
+import tech.grasshopper.pdf.extent.ExtentPDFCucumberReporter;
+
 public class Reporting extends TestListenerAdapter{
 	
 	public ExtentHtmlReporter htmlReporter;
 	public ExtentReports extent;
 	public ExtentTest logger;
-	
-	/*public void onStart(ITestContext testContext) {
-		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());  // Time Stamp
-		String repName="Test-Report-" + timeStamp+".html";
-		htmlReporter= new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+ repName); //specify location
-		try {
-			htmlReporter.loadXMLConfig(System.getProperty("user.dir")+"/extent-config.xml");
-		} catch (IOException e) {
-			
-			e.printStackTrace();
-		}		
-		
-		extent=new ExtentReports();
-		
-		extent.attachReporter(htmlReporter);
-		extent.setSystemInfo("Host name",  "localhost");
-		extent.setSystemInfo("Environment","QA");
-		extent.setSystemInfo("user"," reka");
-		
-		htmlReporter.config().setDocumentTitle("nopcommerce test project"); // title of report
-		htmlReporter.config().setReportName(" Functional test report");  // name of report
-		//htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); // location of chart
-		htmlReporter.config().setTheme(Theme.DARK);
-	 }*/
 
-        @Override
+     @Override
 	public void onStart(ITestContext testContext)
 	{
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
-		String repName="Test-Report-"+timeStamp+".html";
-		//String repName="Test-Report.html";
-		//String sysDir=System.getProperty("user.dir");
-	
-		//htmlReporter=new ExtentHtmlReporter("E:/Vasanthi-SDET/WorkspaceVasanthi/BankingProject/test-output/"+repName);//location of extent report
-		//htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+"/test-output/"+repName);
-		
+		String repName="Test-Report-"+timeStamp+".html";		
 		htmlReporter=new ExtentHtmlReporter("test-output/"+repName);
 		
 		try {
-			//htmlReporter.loadXMLConfig(System.getProperty("user.dir")+"/extent-config.xml");
-	
-			//htmlReporter.loadXMLConfig("extent_config.xml");
 			htmlReporter.loadXMLConfig(System.getProperty("user.dir")+"/src/test/resources/extent_config.xml");
 		} catch (IOException e) {
 			System.out.println(e);
 		}
-		
 		
 		extent=new ExtentReports();
 		extent.attachReporter(htmlReporter);
@@ -76,7 +44,7 @@ public class Reporting extends TestListenerAdapter{
 		extent.setSystemInfo("Environment", "QA");
 		extent.setSystemInfo("user", "Reka");
 		
-		htmlReporter.config().setDocumentTitle("Ebanking Test Project");//title of report
+		htmlReporter.config().setDocumentTitle("Bdd Cucumber Test Project");//title of report
 		htmlReporter.config().setReportName("Functional Test Automation Report");//name of report
 		//htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP);
 		htmlReporter.config().setTheme(Theme.DARK);

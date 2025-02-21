@@ -52,3 +52,318 @@
 [INFO ] 2025-02-20 13:17:33.206 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
 [INFO ] 2025-02-20 13:17:33.213 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
 [INFO ] 2025-02-20 13:17:33.230 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:31:30.096 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:30.096 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:30.096 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:38.624 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:38.626 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:38.636 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:40.833 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:40.836 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:31:40.847 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:02.554 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:02.554 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:02.554 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:09.306 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:09.611 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:09.625 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:12.869 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:12.872 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:12.875 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:17.698 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:17.973 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:18.161 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:19.078 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:19.082 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:19.082 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:37:23.931 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:24.505 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:37:24.510 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:41:15.410 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:41:15.410 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:41:15.410 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:41:22.462 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:41:22.553 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:41:22.572 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 17:47:42.120 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:47:42.120 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:47:42.120 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:48:48.555 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:48:48.555 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:48:48.555 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:49:03.331 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:49:03.345 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:49:03.362 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:49:14.422 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:49:14.427 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:49:14.427 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:19.554 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:19.554 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:19.554 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:34.845 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:34.848 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:34.852 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:46.263 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:46.268 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:51:46.275 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:32.230 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:32.230 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:32.230 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:46.942 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:46.947 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:46.954 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:58.477 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:58.477 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 17:55:58.482 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 18:53:36.407 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 18:53:36.407 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 18:53:36.407 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 18:53:45.419 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 18:53:53.514 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 18:54:00.504 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:09:56.504 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:09:56.504 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:09:56.504 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:10:05.389 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:10:14.309 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:10:30.469 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:10:33.537 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:10:33.537 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:10:33.537 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:10:40.610 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:10:47.009 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:10:54.532 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:10:55.406 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:10:55.410 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:10:55.415 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-20 19:11:01.523 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:11:08.332 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-20 19:11:16.299 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:20.702 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:20.702 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:20.702 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:28.516 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:32.722 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:37.666 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:39.441 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:39.442 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:39.443 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:44.195 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:48.966 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:53.144 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:25:53.659 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:53.660 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:53.661 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:25:57.928 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:26:02.046 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:26:06.128 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:29.236 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:29.236 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:29.236 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:36.449 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:40.885 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:45.920 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:46.521 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:46.521 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:46.521 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:50.615 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:54.725 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:59.431 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:42:59.686 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:59.688 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:42:59.688 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:43:03.873 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:43:08.108 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:43:12.289 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:45:47.091 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:45:47.091 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:45:47.091 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:45:52.924 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:45:57.124 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:01.287 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:01.679 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:46:01.681 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:46:01.683 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:46:06.460 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:10.576 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:14.757 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:14.984 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:46:14.985 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:46:14.985 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:46:19.169 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:23.255 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:46:28.223 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:56:38.252 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:56:38.252 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:56:38.252 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:56:43.815 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:56:48.229 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:56:52.609 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:56:54.182 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:56:54.183 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:56:54.188 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:56:58.645 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:57:02.746 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:57:06.799 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:57:07.424 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:57:07.428 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:57:07.428 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 10:57:11.628 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:57:15.664 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 10:57:20.230 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:22.889 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:22.889 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:22.889 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:28.186 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:32.413 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:36.554 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:38.756 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:38.756 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:38.756 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:43.404 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:47.579 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:51.566 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:11:52.017 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:52.019 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:52.025 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:11:55.923 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:12:00.011 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:12:04.359 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:21:35.793 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:21:35.793 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:21:35.793 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:21:42.264 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:21:46.567 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:21:51.487 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:21:55.252 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:21:55.258 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:21:55.258 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:21:59.409 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:22:03.885 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:22:08.307 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:22:09.444 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:22:09.479 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:22:09.487 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:22:13.797 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:22:18.095 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:22:23.056 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:20.502 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:20.502 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:20.502 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:27.091 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:31.959 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:36.153 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:36.775 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:36.775 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:36.776 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:40.721 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:44.800 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:49.022 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:49.274 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:49.277 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:49.279 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 11:57:53.493 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:57:57.725 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 11:58:01.644 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:07:38.534 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:07:38.534 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:07:38.534 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:07:44.110 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:07:49.042 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:07:53.191 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:07:53.925 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:07:53.927 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:07:53.927 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:07:58.029 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:08:02.315 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:08:06.356 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:08:06.656 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:08:06.657 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:08:06.660 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:08:10.723 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:08:14.894 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:08:19.093 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:15:58.045 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:15:58.045 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:15:58.045 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:16:03.539 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:16:08.497 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:16:13.886 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:19:19.759 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:19:19.759 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:19:19.759 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:19:25.145 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:19:29.403 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:19:33.686 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:24.207 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:24.207 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:24.207 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:29.190 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:33.248 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:38.120 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:39.896 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:39.903 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:39.907 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:44.017 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:48.168 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:52.237 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:33:52.895 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:52.897 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:52.900 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:33:57.768 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:34:01.903 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:34:06.445 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:42:34.929 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:42:34.929 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:42:34.929 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:42:40.705 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:42:45.062 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:42:49.170 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:42:50.857 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:42:50.860 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:42:50.866 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:42:55.090 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:42:59.225 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:43:03.283 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:43:03.838 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:43:03.839 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:43:03.840 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 12:43:07.972 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:43:12.189 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 12:43:16.140 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:44:38.762 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:44:38.762 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:44:38.762 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:44:53.150 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:44:55.883 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:45:02.590 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:45:06.173 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:45:06.184 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:45:06.184 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:45:15.827 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:45:16.123 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:45:25.551 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:45:26.265 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:45:26.265 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:45:26.266 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:45:39.452 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:45:39.461 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:46:00.149 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:09.255 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:09.255 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:09.255 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:22.149 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:22.175 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:31.619 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:33.294 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:33.294 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:33.300 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:43.313 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:46.482 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:54.014 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:55:54.650 [TestNG-PoolService-2] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:54.657 [TestNG-PoolService-1] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:55:54.658 [TestNG-PoolService-3] Loggerload - Get property BrowserType
+[INFO ] 2025-02-21 13:56:03.846 [TestNG-PoolService-2] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:56:04.351 [TestNG-PoolService-3] Loggerload - loging out of nop commerce 
+[INFO ] 2025-02-21 13:56:14.428 [TestNG-PoolService-1] Loggerload - loging out of nop commerce 
