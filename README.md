@@ -128,3 +128,92 @@ allure serve allure-results
 ![image](https://github.com/user-attachments/assets/d0a0e3ff-cbb2-487d-91ee-fb019335b2cf)
 
 
+## 6. Running your BDD tests inside a Docker container.
+
+### 6a. Dockerfile Setup
+Ensure the `Dockerfile` includes dependencies for TestNG.
+Make sure your Dockerfile is set up correctly to build the image with all dependencies for TestNG.
+
+### 6b. Build the Image
+```sh
+docker build -t bdd_framework .
+```
+C:\Users\nreka\eclipse-workspace\BDD_Framework>docker ps -a
+CONTAINER ID   IMAGE                          COMMAND                  CREATED              STATUS                      PORTS                                        NAMES
+78b5c7f02fd8   bdd_framework                  "/bin/sh -c 'mvn cle…"   About a minute ago   Exited (1) 40 seconds ago                                                bdd-container
+![image](https://github.com/user-attachments/assets/182d6c42-7208-4dd9-905f-d8edec10cc11)
+
+### 6c. Run the Container
+This will start the container and execute the CMD defined in your Dockerfile.
+docker run --name bdd-container bdd_framework
+![image](https://github.com/user-attachments/assets/5826d350-60f3-4632-b612-272c6d3eeb17)
+
+## 11. Lambda Test
+LambdaTest is a cloud-based testing platform that allows you to perform cross-browser testing of your web applications. It provides a wide range of real browsers, operating systems, and devices, so you can ensure your web app works perfectly across different environments without needing to maintain a physical device lab.
+11a. Set Up LambdaTest Capabilities: When running Selenium tests on LambdaTest, you’ll configure your desired capabilities to specify the browser, OS, and version.
+```java
+DesiredCapabilities capabilities = new DesiredCapabilities();
+capabilities.setCapability("browserName", "Chrome");
+capabilities.setCapability("browserVersion", "latest");
+capabilities.setCapability("platformName", "Windows 10");
+capabilities.setCapability("LT:Options", new HashMap<String, Object>() {{
+    put("user", "YOUR_USERNAME");
+    put("accessKey", "YOUR_ACCESS_KEY");
+    put("build", "Your Build Name");
+    put("name", "Your Test Name");
+}});
+WebDriver driver = new RemoteWebDriver(new URL("https://hub.lambdatest.com/wd/hub"), capabilities);
+```
+![image](https://github.com/user-attachments/assets/196038a2-7114-4e67-a447-8003ddbe3b2f)
+
+
+## Static Code Analysis using Sonar Qube
+### Step 1: Install Prerequisites
+Ensure you have the following installed:
+✅ Java 11 or later (JDK)
+✅ Maven (Download from Apache Maven)
+✅ SonarQube Community Edition
+
+### Step 2: Download and Extract SonarQube
+Download SonarQube from: 🔗 SonarQube Downloads
+Extract the ZIP file to C:\SonarQube
+Rename the extracted folder to sonarqube
+### Step 3: Configure SonarQube
+Open the C:\SonarQube\sonarqube\conf\sonar.properties file in Notepad.
+Modify the following lines to use localhost:
+- sonar.web.host=127.0.0.1
+- sonar.web.port=9000
+- sonar.search.javaAdditionalOpts=-Dnode.store.allow_mmap=false
+Save and close the file.
+### Step 4: Start SonarQube
+#### Step 1:Open Command Prompt (Run as Administrator)
+Navigate to the SonarQube bin folder:
+``` sh
+cd C:\SonarQube\sonarqube\bin\windows-x86-64
+```
+Start SonarQube:
+```sh
+StartSonar.bat
+```
+Wait for SonarQube to start and open http://localhost:9000 in your browser.
+Default Username: admin
+Default Password: admin
+![image](https://github.com/user-attachments/assets/71cf3813-189a-4bbb-97a2-58ca7b1ce3c9)
+#### Step 1: Add the SonarQube Plugin to Your pom.xml
+#### Step 2: Generate a Sonar Token
+Go to http://localhost:9000
+Click on Your Profile (Top Right) → My Account → Security
+Generate a new token (e.g., sonar-token)
+#### Step 3: Run SonarQube Analysis
+Open Command Prompt in your Maven project folder and run:
+```sh
+mvn clean verify sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=<YOUR_TOKEN>
+```
+3️⃣ View Analysis in SonarQube
+Open http://localhost:9000 in your browser.
+You will see your project's code quality, security vulnerabilities, and test coverage.
+🚀 SonarQube is now integrated with your Maven project!
+![image](https://github.com/user-attachments/assets/cc65720e-ea35-4b5d-9650-5d08be7da078)
+
+![image](https://github.com/user-attachments/assets/1dd1ec5a-de80-4855-801e-b121014d3cf2)
+
