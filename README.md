@@ -218,3 +218,9 @@ You will see your project's code quality, security vulnerabilities, and test cov
 
 ![image](https://github.com/user-attachments/assets/1dd1ec5a-de80-4855-801e-b121014d3cf2)
 
+## Running Tests in Jenkins Pipeline
+Create `Jenkinsfile` for pipeline execution.
+java -jar jenkins.war --httpPort=8081
+
+![image](https://github.com/user-attachments/assets/77bec09b-e4dc-4247-bcca-d5566ffd4280)
+
