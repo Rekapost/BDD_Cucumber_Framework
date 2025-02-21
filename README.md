@@ -10,6 +10,21 @@ This project is a BDD Framework designed to facilitate automated testing for Jav
 - Support for HTML reports
 - Docker integration for containerized testing
 
+## *************   Running the Maven Project **************
+- Locally
+- Using ChainTest Service
+- In Selenium Grid
+- With Parallel Testing
+- For Cross-Browser Testing
+- Using Docker Container
+- Through Jenkins File
+- Via Docker File
+- In the Cloud using Lambda Service
+- With Static Code Analysis
+- Generating Allure Report
+- Generating Extent Report
+- Generating ChainTest Report
+  
 ## Getting Started
 ### Prerequisites
 - Java JDK 8 or higher
