@@ -122,7 +122,7 @@ public class Hooks {
 			capabilities.setCapability("platformName", "Windows 10");
 			capabilities.setCapability("LT:Options", new HashMap<String, Object>() {{
 			    put("user", "rekaharisri");
-			    put("accessKey", "0UV2Eyfkmupm6epnxh6RK6UDtMOebAibFwtZO1WxuPqeySA0zW");
+			    put("accessKey", "0UV2EyfkmuAibFwtZO1WxuPqeySA0zW");
 			    put("build", "Bdd-Framework");
 			    put("name", "Login");
 			}});
